@@ -29,10 +29,5 @@ pip install scapy psutil requests pyyaml rich
 python3 main.py --subnet 192.168.1.0/24 --interval 30
 ```
 
-## 📊 Résultats
-- Ports détectés sur 192.168.1.1 : 23 (Telnet), 80 (HTTP), 443 (HTTPS)
-- Alertes sauvegardées en SQLite et JSONL
-- CPU : ~3%, RAM : ~37%
-
 ## 👨‍💻 Auteur
 Nizar — Projet Réseaux et Systèmes
